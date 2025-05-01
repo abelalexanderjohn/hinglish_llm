@@ -156,11 +156,6 @@ The script will:
 3. Start a fine-tuning job
 4. Optionally monitor the progress of the job
 
-Additional options:
-```bash
-python fine_tune.py --help
-```
-
 ### Testing the Fine-Tuned Model
 Once fine-tuning is complete and you have your model ID (format: `ft:gpt-3.5-turbo:custom:hinglish:abc123`), run:
 
